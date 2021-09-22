@@ -1,0 +1,4 @@
+box     = 1
+empty   = 0
+hole    = -1
+rock    = -2
